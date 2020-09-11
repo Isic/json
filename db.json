@@ -26,19 +26,5 @@
     "webstranica" : "www.subasic.ba",
     "lokacija" : "Jelah",
     "vrijeme" : "Prije 7 dana"
-},
-{
-    "naslov" : "CNC Programer",
-    "kompanija" : "Saračević",
-    "webstranica" : "www.saracevic.ba",
-    "lokacija" : "Tešanj",
-    "vrijeme" : "Prije 9 dana"
-},
-{
-    "naslov" : "Vozač",
-    "kompanija" : "Koteks",
-    "webstranica" : "www.koteks.ba",
-    "lokacija" : "Tešanj",
-    "vrijeme" : "Prije 2 dana"
 }
 ]
