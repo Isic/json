@@ -1,0 +1,44 @@
+[
+    {
+    "naslov" : "Prodavač autodijelova",
+    "kompanija" : "Motorex",
+    "webstranica" : "www.motorex.ba",
+    "lokacija" : "Jelah",
+    "vrijeme" : "Prije 2 dana"
+},
+{
+    "naslov" : "Front End Developer",
+    "kompanija" : "Isić Dev",
+    "webstranica" : "www.isic.ba",
+    "lokacija" : "Piljužići",
+    "vrijeme" : "Prije 5 dana"
+},
+{
+    "naslov" : "Računovođa",
+    "kompanija" : "Euro Roal",
+    "webstranica" : "www.euroroal.ba",
+    "lokacija" : "Doboj-Jug",
+    "vrijeme" : "Prije 2 dana"
+},
+{
+    "naslov" : "Radnica u PEK-shop",
+    "kompanija" : "Subašić",
+    "webstranica" : "www.subasic.ba",
+    "lokacija" : "Jelah",
+    "vrijeme" : "Prije 7 dana"
+},
+{
+    "naslov" : "CNC Programer",
+    "kompanija" : "Saračević",
+    "webstranica" : "www.saracevic.ba",
+    "lokacija" : "Tešanj",
+    "vrijeme" : "Prije 9 dana"
+},
+{
+    "naslov" : "Vozač",
+    "kompanija" : "Koteks",
+    "webstranica" : "www.koteks.ba",
+    "lokacija" : "Tešanj",
+    "vrijeme" : "Prije 2 dana"
+}
+]
